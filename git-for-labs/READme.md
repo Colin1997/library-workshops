@@ -1,4 +1,4 @@
-# Git for Labs READme File [this repo is a work in progress]
+# Git for Labs READme File 
 
 This is the landing page for resources that will help you learn how to use git and establish git and GitHub within your research lab.
 
