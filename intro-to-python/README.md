@@ -1,4 +1,4 @@
-# Intro to Python [work in progress]
+# Intro to Python
 
 This is the landing page for the Intro to Python workshop held by Yale's Cushing/Whitney Medical Library. If you have any questions about this class or the content, email medicaldata@yale.edu. 
 
